@@ -250,6 +250,16 @@ data/external/*
 *.zip
 *.tar.gz
 
+# Rapports et données lourdes
+AFCC-reports/
+data/raw/
+*.pdf
+*.csv
+
+# Environnement Python
+.venv/
+__pycache__/
+
 # ─────────────────────────────────────────────
 # Reports — keep figures, exclude heavy exports
 # ─────────────────────────────────────────────
