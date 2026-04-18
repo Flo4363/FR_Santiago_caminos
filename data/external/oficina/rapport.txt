@@ -1,0 +1,42 @@
+======================================================================
+RAPPORT D'EXTRACTION - OFICINA DEL PEREGRINO
+======================================================================
+Date extraction : 2026-04-17T09:57:41
+Source          : https://oficinadelperegrino.com/wp-admin/admin-ajax.php
+Période         : 2018-2024
+Nombre de mois  : 18
+Schéma détecté  : 17 colonnes
+
+COLONNES DÉCOUVERTES :
+  - anio
+  - mes
+  - mes_titulo
+  - nb_registros
+  - autonomias
+  - camino
+  - created_at
+  - edades
+  - medios
+  - motivacion
+  - nb_ultimo_anno_santo
+  - paises
+  - procedencia
+  - profesiones
+  - sexos
+  - ultimo_anno_santo
+  - updated_at
+
+TOTAUX ANNUELS (contrôle cohérence vs AFCC) :
+----------------------------------------------------------------------
+  2018 :  327,378  (réf AFCC :  327,378, écart : +0) ✓
+  2019 :  138,791  (réf AFCC :  347,578, écart : -208787) ⚠
+  2020 :        0  (réf AFCC :   54,144, écart : -54144) ⚠
+  2021 :        0  (réf AFCC :  178,912, écart : -178912) ⚠
+  2022 :        0  (réf AFCC :  438,307, écart : -438307) ⚠
+  2023 :        0  (réf AFCC :  445,397, écart : -445397) ⚠
+  2024 :        0  (pas de référence AFCC)
+
+FICHIERS GÉNÉRÉS :
+  - oficina_raw/<annee>_raw.json (×7)
+  - oficina_raw/oficina_long.csv
+  - oficina_raw/rapport.txt (ce fichier)
