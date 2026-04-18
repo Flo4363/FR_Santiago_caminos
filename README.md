@@ -11,7 +11,7 @@ Un projet personnel de data science visant à construire un observatoire territo
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Caractériser, modéliser et prédire la fréquentation des chemins de Compostelle sur le territoire français entre 2018 et 2024, à partir de sources hétérogènes, en tenant compte de la non-linéarité des comportements pèlerins (pèlerinage par tronçons étalé sur plusieurs années) et des ruptures contextuelles (COVID-19, Année Jacquaire 2021).
 
@@ -19,7 +19,7 @@ Ce projet a été **reformulé en cours de route** : initialement conçu comme u
 
 Voir [`docs/charter_projet.docx`](docs/charter_projet.docx) pour le cadrage méthodologique complet.
 
-## 🧭 Sous-questions opérationnelles
+## Sous-questions opérationnelles
 
 - Quelle est la dynamique spatio-temporelle des flux sur chaque voie principale (GR65, GR653, GR654, GR655, GR78) ?
 - Quels facteurs explicatifs (météo, saisonnalité, contexte macro) influencent la fréquentation par tronçon ?
@@ -28,7 +28,7 @@ Voir [`docs/charter_projet.docx`](docs/charter_projet.docx) pour le cadrage mét
 
 ---
 
-## 🗂️ Structure du dépôt
+## Structure du dépôt
 
 ```
 FR_Santiago_caminos/
@@ -57,7 +57,7 @@ FR_Santiago_caminos/
 
 ---
 
-## 📊 État d'avancement
+## État d'avancement
 
 | Phase | Étape | Statut |
 |-------|-------|:---:|
@@ -81,7 +81,7 @@ FR_Santiago_caminos/
 
 ---
 
-## 📚 Sources de données
+## Sources de données
 
 ### AFCC — Agence française des chemins de Compostelle
 
@@ -104,7 +104,7 @@ API publique documentée : [open-meteo.com/en/docs/historical-weather-api](https
 
 ---
 
-## 🚀 Installation et usage
+## Installation et usage
 
 ### Prérequis
 
@@ -150,7 +150,7 @@ Le fichier `data/processed/dataset_compostelle_2018_2024.xlsx` contient 8 onglet
 
 ---
 
-## 🧭 Méthodologie
+## Méthodologie
 
 Principes directeurs appliqués tout au long du projet :
 
@@ -164,7 +164,7 @@ Stack technique : **pandas**, **numpy** pour la manipulation ; **matplotlib**, *
 
 ---
 
-## 📦 Livrables actuels
+## Livrables actuels
 
 | Livrable | Emplacement | Description |
 |----------|-------------|-------------|
@@ -176,7 +176,7 @@ Stack technique : **pandas**, **numpy** pour la manipulation ; **matplotlib**, *
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Florian** — Data Analyst & Data Scientist certifié MINES Paris PSL  
 🔗 [LinkedIn](https://www.linkedin.com/in/florian-berger-98949436/)
@@ -185,7 +185,7 @@ Projet personnel mené en parallèle d'une recherche active de mission en tant q
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est distribué sous licence MIT — voir [LICENSE](LICENSE) pour le détail.
 
