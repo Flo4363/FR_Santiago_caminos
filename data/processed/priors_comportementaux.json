@@ -1,0 +1,38 @@
+{
+  "taux_sectionnisme": {
+    "description": "Pèlerins réalisant le chemin par tronçons (non intégral)",
+    "valeur": 0.75,
+    "n_estime": 511,
+    "source": "OT Decazeville 2018 — GR65 Fonteilles-Livinhac"
+  },
+  "taux_reprise_exacte": {
+    "description": "Sectionnistes reprenant exactement là où ils se sont arrêtés",
+    "valeur": 0.19,
+    "n_estime": 247,
+    "source": "ACIR/AFCC Synthèse 2021 — toutes voies"
+  },
+  "part_voie_puy_gr65": {
+    "description": "Part des pèlerins empruntant la Voie du Puy (GR65)",
+    "valeur": 0.55,
+    "n_estime": 3565,
+    "source": "AFCC Synthèse 2021 — p.9"
+  },
+  "distance_quotidienne_km": {
+    "description": "Distance journalière moyenne de marche",
+    "valeur": 25.7,
+    "n_estime": 3565,
+    "source": "AFCC Synthèse 2021 — P04"
+  },
+  "duree_totale_jours": {
+    "description": "Durée totale moyenne du cheminement (complet)",
+    "valeur": 27.8,
+    "n_estime": 3565,
+    "source": "AFCC Synthèse 2021 — P05"
+  },
+  "part_primo_cheminants": {
+    "description": "Part des pèlerins réalisant le chemin pour la première fois",
+    "valeur": 0.51,
+    "n_estime": 3565,
+    "source": "AFCC Synthèse 2021 — P09"
+  }
+}
